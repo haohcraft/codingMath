@@ -16,7 +16,7 @@
     "spaced-comment": 0,
     "no-redeclare": 0,
     "no-console": 2,
-
+    "max-len": ["error", 250],
     //Temporarirly disabled due to a possible bug in babel-eslint (todomvc example)
     "block-scoped-var": 0,
     // Temporarily disabled for test/* until babel/babel-eslint#33 is resolved
